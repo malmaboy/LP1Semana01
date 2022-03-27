@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/bin/Debug/net5.0/OlaMundo.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/bin/Debug/net5.0/OlaMundo.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/bin/Debug/net5.0/OlaMundo.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/bin/Debug/net5.0/OlaMundo.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/bin/Debug/net5.0/ref/OlaMundo.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/bin/Debug/net5.0/OlaMundo.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/ref/OlaMundo.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/OlaMundo/obj/Debug/net5.0/OlaMundo.genruntimeconfig.cache

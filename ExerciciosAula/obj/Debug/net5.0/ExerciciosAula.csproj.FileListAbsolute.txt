@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/bin/Debug/net5.0/ExerciciosAula.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/bin/Debug/net5.0/ExerciciosAula.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/bin/Debug/net5.0/ExerciciosAula.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/bin/Debug/net5.0/ExerciciosAula.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/bin/Debug/net5.0/ref/ExerciciosAula.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/bin/Debug/net5.0/ExerciciosAula.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ref/ExerciciosAula.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/ExerciciosAula/obj/Debug/net5.0/ExerciciosAula.genruntimeconfig.cache

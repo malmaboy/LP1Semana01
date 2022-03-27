@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/bin/Debug/net5.0/Argumentos.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/bin/Debug/net5.0/Argumentos.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/bin/Debug/net5.0/Argumentos.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/bin/Debug/net5.0/Argumentos.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/bin/Debug/net5.0/ref/Argumentos.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/bin/Debug/net5.0/Argumentos.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/ref/Argumentos.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/Argumentos/obj/Debug/net5.0/Argumentos.genruntimeconfig.cache

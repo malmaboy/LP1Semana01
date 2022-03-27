@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/bin/Debug/net5.0/TiposVarios.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/bin/Debug/net5.0/TiposVarios.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/bin/Debug/net5.0/TiposVarios.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/bin/Debug/net5.0/TiposVarios.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/bin/Debug/net5.0/ref/TiposVarios.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/bin/Debug/net5.0/TiposVarios.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/ref/TiposVarios.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/TiposVarios/obj/Debug/net5.0/TiposVarios.genruntimeconfig.cache

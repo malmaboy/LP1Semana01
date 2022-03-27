@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/bin/Debug/net5.0/VariasStrings.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/bin/Debug/net5.0/VariasStrings.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/bin/Debug/net5.0/VariasStrings.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/bin/Debug/net5.0/VariasStrings.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/bin/Debug/net5.0/ref/VariasStrings.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/bin/Debug/net5.0/VariasStrings.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/ref/VariasStrings.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula01/VariasStrings/obj/Debug/net5.0/VariasStrings.genruntimeconfig.cache
